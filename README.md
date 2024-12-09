@@ -24,7 +24,7 @@ Cuando la pandemia golpeó y me encontré encerrado solo, decidí darle un giro 
 - **Bases de Datos**: MySQL.
 - **Control de versiones **: Git, GitHub, Perforce.
 
-### 🛠️ Habilidades Blandas
+### 🍻 Habilidades Blandas
 
 - **Trabajo en equipo**
 - **Resolutivo**
