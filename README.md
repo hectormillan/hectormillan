@@ -1,4 +1,7 @@
-![image](https://github.com/user-attachments/assets/bc3b6cf3-fb85-4045-856d-94d2d3be2bfb)
+<!-- ![image](https://github.com/user-attachments/assets/bc3b6cf3-fb85-4045-856d-94d2d3be2bfb) -->
+
+![image](https://github.com/user-attachments/assets/a6cf4b3d-7f3b-4769-bddf-e67c7ac2a2ea)
+
 
 # 👾 Héctor Millán - Full Stack Developer & Game Developer
 
