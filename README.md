@@ -21,8 +21,7 @@ Cuando la pandemia golpeó y me encontré encerrado solo, decidí darle un giro 
 
 ### 🛠️ Habilidades Técnicas
 
-- **Lenguajes de Programación**: BluePrint.
-- **Desarrollo de Juegos**: Unreal Engine. 
+- **Desarrollo de Juegos**: Unreal Engine, Blueprint, IA, Technical Artist, animation programmer. 
 - **Desarrollo Web**: HTML, CSS, JavaScript, Pyton, React.
 - **Bases de Datos**: MySQL, PostgreSQL.
 - **Control de versiones **: Git, GitHub, Perforce.
