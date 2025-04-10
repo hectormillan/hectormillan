@@ -23,8 +23,8 @@ Cuando la pandemia golpeó y me encontré encerrado solo, decidí darle un giro 
 
 - **Lenguajes de Programación**: BluePrint.
 - **Desarrollo de Juegos**: Unreal Engine. 
-- **Desarrollo Web**: HTML, CSS. 
-- **Bases de Datos**: MySQL.
+- **Desarrollo Web**: HTML, CSS, JavaScript, Pyton, React.
+- **Bases de Datos**: MySQL, PostgreSQL.
 - **Control de versiones **: Git, GitHub, Perforce.
 
 ### 🍻 Habilidades Blandas
