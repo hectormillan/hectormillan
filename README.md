@@ -48,7 +48,7 @@ Recientemente, tras finalizar mi relación laboral, decidí ampliar mis horizont
     Enlace: https://store.steampowered.com/app/3024110/Jin__Jan/
   
 - **[Xeno Rescue]**: Juego basado en el Aliens 3 de la MegaDrive: Prototipo personal en solitario.
-    Enlace: https://www.youtube.com/watch?v=HpudDmyuFT0&t=1s
+    Enlace: https://www.youtube.com/watch?v=AaVy5_PFOb4
   
 - **[Dead Xeno]**: Demo técnica de la adaptación de Xeno Rescue a 3a persona.
   Enlace: https://www.youtube.com/watch?v=UU7vkg5w34Q
@@ -61,7 +61,7 @@ Estoy comprometido a seguir aprendiendo y mejorando mis habilidades. Creo firmem
 
 - **LinkedIn**: [Héctor Millán](https://www.linkedin.com/in/héctor-millán-45a28423a/)
 - **Correo**: hector.millan.rz@gmail.com
-- **Portafolio**: [tuportafolio.com](https://hectormillan831.wixsite.com/portfolio)]
+- **Portafolio de videojuegos**: [tuportafolio.com](https://hectormillan831.wixsite.com/portfolio)]
 
 ---
 
